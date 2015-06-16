@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ getKilled()
+comment2.params=
+comment2.target=void\ moveInPlatform()
+comment3.params=x\ y
+comment3.target=boolean\ thereIsPlatformIn(int,\ int)
+comment4.params=x\ y
+comment4.target=boolean\ thereIsNoObstacle(int,\ int)
+comment5.params=
+comment5.target=void\ animation()
+comment6.params=
+comment6.target=void\ turnImages()
+numComments=7

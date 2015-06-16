@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DeathCounter()
+comment1.params=
+comment1.target=int\ getDeaths()
+comment2.params=pts
+comment2.target=void\ addScore(int)
+numComments=3

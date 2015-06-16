@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=stage
+comment0.target=StagePlate(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ fadeOut()
+comment3.params=
+comment3.target=void\ removeItSelf()
+numComments=4

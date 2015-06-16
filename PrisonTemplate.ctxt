@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PrisonTemplate()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ PrisonTemplate.\n\ \n
+comment1.params=
+comment1.target=void\ nextLevel()
+comment2.params=
+comment2.target=void\ previousLevel()
+numComments=3

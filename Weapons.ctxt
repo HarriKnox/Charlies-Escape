@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Weapons()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Weapons\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ hitSomething()
+comment3.params=
+comment3.target=int\ getXOffset()
+comment4.params=
+comment4.target=int\ getDamage()
+comment5.params=
+comment5.target=void\ outOfScreen()
+numComments=6
